@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BUJGw/CV3lGDqkK5imtjFHxkbUQhd4boYmZ5nHIkPat9SzeOd4wFkfImET1i2WrYKvV9hNrzgReSjiNYbGmz2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\LinqSamples\\LinqSamples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gpawlohf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gpawlohf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

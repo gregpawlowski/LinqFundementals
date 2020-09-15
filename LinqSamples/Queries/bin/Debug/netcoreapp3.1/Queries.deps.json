@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Queries/1.0.0": {
+        "dependencies": {
+          "Features": "1.0.0"
+        },
+        "runtime": {
+          "Queries.dll": {}
+        }
+      },
+      "Features/1.0.0": {
+        "runtime": {
+          "Features.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Features/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

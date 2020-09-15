@@ -1,0 +1,17 @@
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.csprojAssemblyReference.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CoreCompileInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.genruntimeconfig.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Features.exe
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Queries\obj\Debug\netcoreapp3.1\Queries.csproj.CopyComplete

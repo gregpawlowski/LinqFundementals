@@ -1,0 +1,15 @@
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\fuel.csv
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv

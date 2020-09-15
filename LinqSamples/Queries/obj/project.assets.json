@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Features/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Features.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Features.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Features/1.0.0": {
+      "type": "project",
+      "path": "../Features/Features.csproj",
+      "msbuildProject": "../Features/Features.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Features >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gpawlohf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\Queries\\Queries.csproj",
+      "projectName": "Queries",
+      "projectPath": "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\Queries\\Queries.csproj",
+      "packagesPath": "C:\\Users\\gpawlohf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\Queries\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gpawlohf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\Features\\Features.csproj": {
+              "projectPath": "C:\\Users\\gpawlohf\\Documents\\C#Fundementals\\LINQ\\LinqSamples\\Features\\Features.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

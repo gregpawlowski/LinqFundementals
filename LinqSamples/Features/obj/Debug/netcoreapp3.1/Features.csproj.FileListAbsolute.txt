@@ -1,0 +1,13 @@
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.exe
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\bin\Debug\netcoreapp3.1\Features.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.csproj.CoreCompileInputs.cache
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.dll
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.pdb
+C:\Users\gpawlohf\Documents\C#Fundementals\LINQ\LinqSamples\Features\obj\Debug\netcoreapp3.1\Features.genruntimeconfig.cache
